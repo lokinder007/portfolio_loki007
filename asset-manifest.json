@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f2ffca1.css",
-    "main.js": "/static/js/main.e37141ff.js",
-    "static/media/mypic.png": "/static/media/mypic.0e6907d4091720492c43.png",
-    "static/media/contact1.png": "/static/media/contact1.8ddfbfd11798f881db54.png",
-    "static/media/calculator.jpg": "/static/media/calculator.1b84b673b67d326d2473.jpg",
-    "static/media/f-logo.png": "/static/media/f-logo.fd22eda595a33f8b3957.png",
-    "static/media/h-logo.png": "/static/media/h-logo.7d9fe6d2da97c0bca02e.png",
-    "index.html": "/index.html",
-    "main.6f2ffca1.css.map": "/static/css/main.6f2ffca1.css.map",
-    "main.e37141ff.js.map": "/static/js/main.e37141ff.js.map"
+    "main.css": "/portfolio_loki007/static/css/main.6f2ffca1.css",
+    "main.js": "/portfolio_loki007/static/js/main.562f37d5.js",
+    "static/media/mypic.png": "/portfolio_loki007/static/media/mypic.0e6907d4091720492c43.png",
+    "static/media/contact1.png": "/portfolio_loki007/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/calculator.jpg": "/portfolio_loki007/static/media/calculator.1b84b673b67d326d2473.jpg",
+    "static/media/f-logo.png": "/portfolio_loki007/static/media/f-logo.fd22eda595a33f8b3957.png",
+    "static/media/h-logo.png": "/portfolio_loki007/static/media/h-logo.7d9fe6d2da97c0bca02e.png",
+    "index.html": "/portfolio_loki007/index.html",
+    "main.6f2ffca1.css.map": "/portfolio_loki007/static/css/main.6f2ffca1.css.map",
+    "main.562f37d5.js.map": "/portfolio_loki007/static/js/main.562f37d5.js.map"
   },
   "entrypoints": [
     "static/css/main.6f2ffca1.css",
-    "static/js/main.e37141ff.js"
+    "static/js/main.562f37d5.js"
   ]
 }
