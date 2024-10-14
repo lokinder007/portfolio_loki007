@@ -1,0 +1,60 @@
+const ResumeApi = [
+  {
+    id: 7,
+    category: "experience",
+    year: "Web Developer (2023 - Present) ",
+    title: "Freelancer",
+    desc: "Convert Website to SPA using React js. Developing Web App’s using React js.",
+    rate: "5.00/5 ",
+  },
+  {
+    id: 6,
+    category: "experience",
+    year: "Web Developer (2022 - 2023) ",
+    title: "Starline Solutions - ADI",
+    desc: "Built reusable front-end components using React. Creating Web App’s apk using React-Native.",
+    rate: "5.00/5 ",
+  },
+  {
+    id: 5,
+    category: "experience",
+    year: "Web Developer (20021 - 2022) ",
+    title: "Purna Experts - ADI",
+    desc: "Developing new user-facing features using React.js (HTML5, CSS3).",
+    rate: "4.95/5 ",
+  },
+  {
+    id: 4,
+    category: "experience",
+    year: "Android Developer (2015 - 2016) ",
+    title: "Vinove - Delhi",
+    desc: "Learned and Help in building Android Applications.",
+    rate: "4.70/5 ",
+  },
+  {
+    id: 3,
+    category: "education",
+    year: "BTech in CSE (2011 - 2015) ",
+    title: "HIET - Ghaziabad",
+    desc: "Hi-Tech Institute of Engineering and Technology (HIET) Ghaziabad, is one of the top colleges in Delhi NCR. Its affiliated with AKTU Lucknow, and CCSU Meerut.",
+    rate: "4.80/5 ",
+  },
+  {
+    id: 2,
+    category: "education",
+    year: "CBSE 11th-12th (2009 - 2010) ",
+    title: "Kendriya Vidyalaya",
+    desc: "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    rate: "4.50/5",
+  },
+  {
+    id: 1,
+    category: "education",
+    year: "CBSE 1st-10th (1997 - 2008)",
+    title: "Kendriya Vidyalaya",
+    desc: "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    rate: "4.30/5",
+  },
+]
+
+export default ResumeApi
