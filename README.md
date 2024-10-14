@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-GitHub Page [ Portfolio](https://lokinder007.github.io/portfolio2/).
+GitHub Page [ Portfolio_loki007](https://github.com/lokinder007/portfolio_loki007).
 
 ## Available Scripts
 
