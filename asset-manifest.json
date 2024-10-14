@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio_loki007/static/css/main.6f2ffca1.css",
-    "main.js": "/portfolio_loki007/static/js/main.562f37d5.js",
+    "main.js": "/portfolio_loki007/static/js/main.b04cf52c.js",
     "static/media/mypic.png": "/portfolio_loki007/static/media/mypic.0e6907d4091720492c43.png",
     "static/media/contact1.png": "/portfolio_loki007/static/media/contact1.8ddfbfd11798f881db54.png",
     "static/media/calculator.jpg": "/portfolio_loki007/static/media/calculator.1b84b673b67d326d2473.jpg",
@@ -9,10 +9,10 @@
     "static/media/h-logo.png": "/portfolio_loki007/static/media/h-logo.7d9fe6d2da97c0bca02e.png",
     "index.html": "/portfolio_loki007/index.html",
     "main.6f2ffca1.css.map": "/portfolio_loki007/static/css/main.6f2ffca1.css.map",
-    "main.562f37d5.js.map": "/portfolio_loki007/static/js/main.562f37d5.js.map"
+    "main.b04cf52c.js.map": "/portfolio_loki007/static/js/main.b04cf52c.js.map"
   },
   "entrypoints": [
     "static/css/main.6f2ffca1.css",
-    "static/js/main.562f37d5.js"
+    "static/js/main.b04cf52c.js"
   ]
 }
